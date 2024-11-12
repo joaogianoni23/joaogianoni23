@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-gianoni-a0b1592b2)
 
-![joaogianoni23 GitHub stats-Dark](https://github.com/joaogianoni23/github-readme-stats#gh-dark-mode-only)
+![joaogianoni23 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogianoni23&show_icons=true&theme=transparent)
 
 <details>
  <summary>💡 Skills</summary>
