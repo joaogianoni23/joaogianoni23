@@ -8,16 +8,27 @@
 </p>
 
 <details>
-  <summary>👁️ Sobre mim:</summary>
+  <summary>👁️ Veja mais:</summary>
 
-  - 🫀 Nasci em 2008/01/25 e tenho 16 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. Neste ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência emocional e financeira, por isso corro atrás do meu progresso.
+  - Nasci em 2008/01/25 e tenho 16 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. Neste ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência emocional e financeira, por isso corro atrás do meu progresso.
 </details>
 
-## Conheça mais sobre mim:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-gianoni-a0b1592b2)
+## Descubra mais sobre mim:
+<a href="https://instagram.com/joaogianoni" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram @joaogianoni">
+</a>
+<a href="www.linkedin.com/in/joão-vitor-gianoni-a0b1592b2" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
+</a>
 
-![joaogianoni23 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogianoni23&show_icons=true&theme=transparent)
+<br>
+
+<a href="https://github.com/joaogianoni23/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaogianoni23&layout=compact&langs_count=8&card_width=320_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/joaogianoni23/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogianoni23&layout=compact&langs_count=8&card_width=320_icons=true&theme=transparent" />
+</a>
 
 <details>
  <summary>💡 Skills</summary>
@@ -28,5 +39,8 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 </details>
+
+
+
 
 
