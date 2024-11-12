@@ -1,10 +1,24 @@
 # Olá pessoal!
 
+<p>
+   Prazer, me chamo João Gianoni! Sou estudante do SESI/SENAI Valinhos.
+
+  - 👨‍💻 Estudo desenvolvimento de sistemas e sou fissurado por tecnologias, Estou em busca de uma oportunidade de emprego nesta área, minha grande meta!
+
+</p>
+
+<details>
+  <summary>👁️ Sobre mim:</summary>
+
+  - 😶‍🌫️ Nasci em 2008/01/25 e tenho 16 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. Neste ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência emocional e financeira, por isso corro atras do meu progresso.
+  - 
+</details>
+
 ## Conheça mais sobre mim:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-gianoni-a0b1592b2)
 
-![joaogianoni23 GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![joaogianoni23 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogianoni23&show_icons=true&theme=gotham)
 
 ## Skills
   <div style="flex-basis: 48%;">
