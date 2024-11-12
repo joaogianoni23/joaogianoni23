@@ -23,9 +23,12 @@
 
 <br>
 
+## Status do meu GitHub:
 <a href="https://github.com/joaogianoni23/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaogianoni23&layout=compact&langs_count=8&card_width=320_icons=true&theme=transparent"/>
 </a>
+
+## Linguagens mais utilizadas:
 <a href="https://github.com/joaogianoni23/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogianoni23&layout=compact&langs_count=8&card_width=320_icons=true&theme=transparent" />
 </a>
