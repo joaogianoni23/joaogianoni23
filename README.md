@@ -8,12 +8,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <details>
-  <summary>👁️ Veja mais:</summary>
+  <summary>👁️ Sobre mim:</summary>
 
   - Nasci em 2008/01/25 e tenho 16 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. Neste ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência emocional e financeira, por isso corro atrás do meu progresso.
 </details>
 
-## Descubra mais sobre mim:
+## Contate-me:
 <a href="https://instagram.com/joaogianoni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram @joaogianoni">
 </a>
@@ -42,7 +42,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 </details>
-
 
 
 
