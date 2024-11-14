@@ -1,7 +1,7 @@
-# Olá pessoal!
+<h1 align="center">Prazer, me chamo <a href="https://www.blackcater.win/" target="_blank">João Gianoni</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p>
-   Prazer, me chamo João Gianoni! Sou estudante do SESI/SENAI Valinhos.
 
   - 👨‍💻 Estudo desenvolvimento de sistemas e sou fissurado por tecnologias, Estou em busca de uma oportunidade de emprego nesta área, minha grande meta!
 
