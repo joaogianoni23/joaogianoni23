@@ -10,7 +10,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <details>
   <summary>👁️ Sobre mim:</summary>
 
-  - Nasci em 2008/01/25 e tenho 17 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. Neste ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência, por isso corro atrás do meu progresso.
+  - Nasci em 2008/01/25 e tenho 17 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. No ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência, por isso corro atrás do meu progresso.
 </details>
 
 ## Contate-me:
