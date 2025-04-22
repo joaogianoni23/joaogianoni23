@@ -1,19 +1,19 @@
-<h1 align="center">Prazer, me chamo <a href="https://www.blackcater.win/" target="_blank">João Gianoni</a> <img
+<h1 align="center">Pleasure, my name is <a href="https://www.blackcater.win/" target="_blank">João Gianoni</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p>
 
-  - 👨‍💻 Estudo desenvolvimento de sistemas e sou fissurado por tecnologias, Estou em busca de uma oportunidade de emprego nesta área, minha grande meta!
+  - 👨‍💻 I'm studying systems development and I'm passionate about technology. I'm looking for a job in this area, my big goal!
 
 </p>
 
 <details>
-  <summary>👁️ Sobre mim:</summary>
+  <summary>👁️ About me:</summary>
 
-  - Nasci em 2008/01/25 e tenho 17 anos, desde sempre gostei de tecnologia por isso entrei no curso de Desenvolvimento de sistemas. No ano de 2024 comecei a me aprofundar na língua inglesa entrando na escola de idiomas Michigan. Moro com meus pais mas busco minha indepência, por isso corro atrás do meu progresso.
+  - I was born in 2008/01/25 and I'm 17 years old. I've always liked technology, which is why I studied systems development. In 2024, I began to learn English by attending the Michigan Language School. I live with my parents but I'm looking for my own independence, so I'm chasing my progress.
 </details>
 
-## Contate-me:
+## Contact me:
 <a href="https://instagram.com/joaogianoni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram @joaogianoni">
 </a>
@@ -23,12 +23,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br>
 
-## Status do meu GitHub:
+## Status of my GitHub:
 <a href="https://github.com/joaogianoni23/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaogianoni23&layout=compact&langs_count=8&card_width=320_icons=true&theme=transparent"/>
 </a>
 
-## Linguagens mais utilizadas:
+## Most used languages:
 <a href="https://github.com/joaogianoni23/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogianoni23&layout=compact&langs_count=8&card_width=320_icons=true&theme=transparent" />
 </a>
