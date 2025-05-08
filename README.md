@@ -3,7 +3,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>
 
-  - 👨‍💻 I'm studying systems development and I'm passionate about technology. I'm looking for a job in this area, my big goal!
+  - 👨‍💻 I'm currently studying Systems Development and have a strong passion for technology. I'm actively seeking an opportunity in the tech industry where I can apply my skills and grow professionally. Securing a role in this field is not just a career move—it's my biggest goal.
+
+
 
 </p>
 
