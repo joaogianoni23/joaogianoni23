@@ -3,8 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>
 
-  - 👨‍💻 I'm currently studying Systems Development and have a strong passion for technology. I'm actively seeking an opportunity in the tech industry where I can apply my skills and grow professionally. Securing a role in this field is not just a career move—it's my biggest goal.
-
+  - 👨‍💻 I am currently pursuing a bachelor’s degree in Software Engineering and have completed a technical training program in Systems Development through SENAI. I have also completed the Google Cloud Foundations course, expanding my knowledge of cloud computing and modern technologies. I have a strong interest in the technology field and am looking for an opportunity where I can apply my knowledge, develop new skills, and grow professionally. Joining the technology sector represents not only a step forward in my career but a long-held goal.
 
 
 </p>
@@ -12,7 +11,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <details>
   <summary>👁️ About me:</summary>
 
-  - I was born in 2008/01/25 and I'm 17 years old. I've always liked technology, which is why I studied systems development. In 2024, I began to learn English by attending the Michigan Language School. I live with my parents but I'm looking for my own independence, so I'm chasing my progress.
+  - I am a dedicated person who has had a strong interest in technology from an early age, which motivated me to pursue a career in systems development. In 2024, I began studying English at the Michigan Language School, seeking to expand my opportunities and enhance my professional skills. My goal is to achieve independence through personal and professional growth, always focusing on continuous learning and development.
 </details>
 
 ## Contact me:
